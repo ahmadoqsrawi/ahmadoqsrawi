@@ -8,9 +8,9 @@
 
 - 📚 I’m currently studying in **Polish Japanese Academy of Information Technology**
 
-- 💡 I’m currently learning **Python, JavaScript, Django**
+- 💡 I’m currently learning **Java**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **C++ & Python**
 
 - 👨‍💻 All of my projects are available at [https://ahmadoqsrawi.me](https://ahmadoqsrawi.me)
 
