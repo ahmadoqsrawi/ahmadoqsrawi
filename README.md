@@ -35,8 +35,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ahmadoqsrawi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ahmadoqsrawi" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadoqsrawi&show_icons=true&locale=en&layout=compact" alt="ahmadoqsrawi" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadoqsrawi&show_icons=true&locale=en" alt="ahmadoqsrawi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadoqsrawi&" alt="ahmadoqsrawi" /></p>
