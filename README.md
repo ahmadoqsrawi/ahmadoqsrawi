@@ -2,7 +2,6 @@
 <p align="center">
 <img src="https://i.imgur.com/0aRXM2m.jpg">
 </p>
-<a href="https://imgur.com/0aRXM2m"><img src="https://i.imgur.com/0aRXM2m.jpg" title="source: imgur.com" /></a>
 <h3 align="center">A full stack developer & YouTube creator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadoqsrawi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadoqsrawi" /> </p>
