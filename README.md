@@ -1,3 +1,8 @@
+<h1 align='center'> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Ahmad Ismail👨🏻‍💻 </h1>
+<p align="center">
+  <a href="https://github.com/ahmadoqsrawi/ahmadoqsrawi"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=288BB7&width=435&lines=Hi%2C+Welcome+to+my+Github+profile;I'm+Ahmad+Ismail" alt="Typing SVG" /></a>
+</p>
+
 # 💫 About Me:
 🖥️ I’m currently working in Google via TTec<br><br>📚 I’m currently studying in IU International University of Applied Sciences<br>& Warsaw Management University<br><br>💡 I’m currently studying Computer Science & Security and Cyber-security Management<br><br>📄 Know about my experiences https://www.linkedin.com/in/ahmadoqsrawi/<br><br>📫 How to reach me: ahmadoqsrawi@gmail.com<br><br>⚡ My Hobbies: Photography & Camping<br><br>⚡ Fun fact: One of my main professional goals is to one day become the president of an IT corporation<br>
 
