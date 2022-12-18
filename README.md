@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ I’m currently working in Google via TTec<br><br>📚 I’m currently studying in IU International University of Applied Sciences<br>& Warsaw Management University<br><br>💡 I’m currently studying Computer Science & Security and Cyber-security Management<br><br>📄 Know about my experiences https://www.linkedin.com/in/ahmadoqsrawi/<br><br>📫 How to reach me: ahmadoqsrawi@gmail.com<br><br>⚡ My Hobbies: Photography & Camping<br><br>⚡ Fun fact: One of my main professional goals is to one day become the president of an IT corporation<br>
+🖥️ I’m currently working in <b>Google via TTec<b><br><br>📚 I’m currently studying in <b>IU International University of Applied Sciences<br>& <b>Warsaw Management University<b><br><br>💡 I’m currently studying <b>Computer Science<b> & <b>Security and Cyber-security Management<b><br><br>📄 Know about my experience<b>s https://www.linkedin.com/in/ahmadoqsrawi/<br><br>📫 How to reach me: <b>ahmadoqsrawi@gmail.com<b><br><br>⚡ My Hobbies: <b>Photography<b> & <b>Camping<b><br><br>⚡ Fun fact: <b>One of my main professional goals is to one day become the president of an IT corporation<b><br>
 
 
 ## 🌐 Socials:
