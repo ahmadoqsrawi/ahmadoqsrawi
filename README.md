@@ -4,6 +4,7 @@
 </p>
 
 # 💫 About Me:
+<img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width:100%;">
 🖥️ I’m currently working in Google via TTec<br><br>📚 I’m currently studying in IU International University of Applied Sciences<br>& Warsaw Management University<br><br>💡 I’m currently studying Computer Science & Security and Cyber-security Management<br><br>📄 Know about my experiences https://www.linkedin.com/in/ahmadoqsrawi/<br><br>📫 How to reach me: ahmadoqsrawi@gmail.com<br><br>⚡ My Hobbies: Photography & Camping<br><br>⚡ Fun fact: One of my main professional goals is to one day become the president of an IT corporation<br>
 
 
