@@ -1,5 +1,5 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<h1 align='center'> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Ahmad Ismail👨🏻‍💻 </h1>
+<h1 align='center'> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Ahmad Ismail👨🏻‍💻 </h1>
 <p align="center">
   <a href="https://github.com/ahmadoqsrawi/ahmadoqsrawi"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=288BB7&width=435&lines=Hi%2C+Welcome+to+my+Github+profile;I'm+Ahmad+Ismail" alt="Typing SVG" /></a>
 </p>
