@@ -5,7 +5,7 @@
 </p>
 
 # 💫 About Me:
-🖥️ I’m currently working in Google via TTec as Account Strategist Manager<br><br>📚 I’m currently studying Computer Science in IU International University of Applied Sciences<br><br><br>💡 I’m currently studying Security and Cyber-security Management in Collegium Humanum<br><br>📄 Know about my experiences https://www.linkedin.com/in/ahmadoqsrawi/<br><br>📫 How to reach me: ahmadoqsrawi@gmail.com<br><br>⚡ My Hobbies: Photography & Camping<br><br>⚡ Fun fact: One of my main professional goals is to one day become the president of an IT corporation<br>
+🖥️ I’m currently working in Google via TTec as Account Strategist Manager<br><br>📚 I’m currently studying Computer Science in IU International University of Applied Sciences<br><br>💡 I’m currently studying Security and Cyber-security Management in Collegium Humanum<br><br>📄 Know about my experiences https://www.linkedin.com/in/ahmadoqsrawi/<br><br>📫 How to reach me: ahmadoqsrawi@gmail.com<br><br>⚡ My Hobbies: Photography & Camping<br><br>⚡ Fun fact: One of my main professional goals is to one day become the president of an IT corporation<br>
 
 
 ## 🌐 Socials:
