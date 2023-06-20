@@ -5,7 +5,7 @@
 </p>
 
 # 💫 About Me:
-🖥️ I’m currently working in Google via TTec as Account Strategist Manager<br><br>📚 I’m currently studying Computer Science in IU International University of Applied Sciences<br><br>💡 I’m currently studying Security and Cyber-security Management in Collegium Humanum<br><br>📄 Know about my experiences https://www.linkedin.com/in/ahmadoqsrawi/<br><br>📫 How to reach me: ahmadoqsrawi@gmail.com<br><br>⚡ My Hobbies: Photography, travel, camping, coding and cooking<br><br>⚡ Fun fact: One of my main professional goals is to one day become the president of an IT corporation<br>
+🖥️ I’m currently working in Google via TTec as Account Strategist Manager<br><br>📚 I’m currently studying Computer Science in IU International University of Applied Sciences<br><br>💡 I’m currently studying Security and Cyber-security Management in Collegium Humanum<br><br>📄 Know about my experiences https://www.linkedin.com/in/ahmadoqsrawi/<br><br>📫 How to reach me: ahmadoqsrawi@gmail.com<br><br>⚡ My Hobbies: Photography, travel, camping, coding and cooking<br><br>⚡ Fun fact: My love for cooking and coding came together in an unexpected way. While experimenting with new recipes in the kitchen, I realized that cooking and coding share some interesting similarities. Both require careful planning, precise execution, and a creative mindset to achieve a desired outcome. I discovered that my coding skills helped me approach cooking with a systematic approach, allowing me to experiment, iterate, and create unique culinary masterpieces. From writing recipes like lines of code to debugging flavors, my passion for coding has added a dash of innovation to my culinary adventures!<br>
 
 
 ## 🌐 Socials:
