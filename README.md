@@ -18,7 +18,6 @@
 ![Networking](https://img.shields.io/badge/Networking-%230070C0.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-%23AA00FF.svg?style=for-the-badge&logo=kali%20linux&logoColor=white)
-[![OSCP]([https://www.offensive-security.com/wp-content/uploads/2021/02/OSCP-Logo.png](https://images.credly.com/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png))](https://www.offensive-security.com/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmadoqsrawi&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
