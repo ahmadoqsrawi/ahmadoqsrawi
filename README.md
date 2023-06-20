@@ -14,9 +14,11 @@
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Security](https://img.shields.io/badge/Security-%23FF0000.svg?style=for-the-badge&logo=security&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-%230070C0.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-%23AA00FF.svg?style=for-the-badge&logo=kali%20linux&logoColor=white)
+[![OSCP](https://www.offensive-security.com/wp-content/uploads/2021/02/OSCP-Logo.png)](https://www.offensive-security.com/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmadoqsrawi&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
