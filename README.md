@@ -95,7 +95,9 @@ Active in open source. I contribute to the developer tools I use, small fixes an
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/FF5C00/ahmadoqsrawi" alt="Contribution graph" width="90%"/>
+<a href="https://github.com/ahmadoqsrawi">
+  <img src="https://ghchart.rshah.org/FF5C00/ahmadoqsrawi" alt="Contribution graph" width="90%"/>
+</a>
 
 </div>
 
