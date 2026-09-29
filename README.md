@@ -77,6 +77,29 @@ My background in sales, client management, and technical development gives me a 
 
 ---
 
+## 🤝 Contributing
+
+Active in open source. I contribute to the developer tools I use, small fixes and features that scratch a real itch. Everything below updates on its own.
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/ahmadoqsrawi?style=for-the-badge&label=Followers&color=FF5C00&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/stars/ahmadoqsrawi?style=for-the-badge&label=Stars&color=FF5C00&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aahmadoqsrawi%2Btype%3Apr&query=%24.total_count&style=for-the-badge&label=Pull%20Requests&color=FF5C00&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aahmadoqsrawi%2Btype%3Aissue&query=%24.total_count&style=for-the-badge&label=Issues&color=FF5C00&labelColor=0D1117"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ahmadoqsrawi&hide_border=true&background=0D1117&stroke=0D1117&ring=FF5C00&fire=FF5C00&currStreakLabel=FF5C00&sideLabels=F5F0E8&currStreakNum=F5F0E8&sideNums=F5F0E8&dates=F5F0E8" alt="GitHub streak" height="165"/>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/FF5C00/ahmadoqsrawi" alt="Contribution graph" width="90%"/>
+
+</div>
+
+---
+
 ## 🗺️ Certification Roadmap
 
 ```
